@@ -1,0 +1,109 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "film 1",
+      "description": "Film 1 Açıklaması...",
+      "imageUrl": "1.jpeg",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "title": "film 2",
+      "description": "Film 2 Açıklaması...",
+      "imageUrl": "2.jpeg",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "title": "film 3",
+      "description": "Film 3 Açıklaması...",
+      "imageUrl": "3.jpeg",
+      "categoryId": 3
+    },
+    {
+      "id": 4,
+      "title": "film 4",
+      "description": "Film 4 Açıklaması...",
+      "imageUrl": "4.jpeg",
+      "categoryId": 4
+    },
+    {
+      "id": 5,
+      "title": "Yeni film ",
+      "description": "Yeni Açıklama",
+      "imageUrl": "5.jpeg",
+      "isPopular": false,
+      "datePublished": 1647010097747,
+      "categoryId": "4"
+    },
+    {
+      "id": 6,
+      "title": "Yeni film ",
+      "description": "Yeni Açıklama",
+      "imageUrl": "5.jpeg",
+      "isPopular": false,
+      "datePublished": 1647010111856,
+      "categoryId": "2"
+    },
+    {
+      "id": 7,
+      "title": "Enes Yağız",
+      "description": "Tam Bir Başarı",
+      "imageUrl": "5.jpeg",
+      "isPopular": false,
+      "datePublished": 1647010360343,
+      "categoryId": "1"
+    },
+    {
+      "id": 8,
+      "title": "osman erdem",
+      "description": "osman bey importta url versem nolur",
+      "imageUrl": "4.jpeg",
+      "isPopular": false,
+      "datePublished": 1647010661721,
+      "categoryId": "3"
+    },
+    {
+      "id": 9,
+      "title": "asdasd",
+      "description": "asdasdasd",
+      "imageUrl": "1.jpeg",
+      "isPopular": false,
+      "datePublished": 1647010709035,
+      "categoryId": "1"
+    },
+    {
+      "id": 10,
+      "title": "savas",
+      "description": "savas",
+      "imageUrl": "1.jpeg",
+      "isPopular": false,
+      "datePublished": 1647010774645,
+      "categoryId": "5"
+    }
+
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "macera"
+    },
+    {
+      "id": 2,
+      "name": "romantik"
+    },
+    {
+      "id": 3,
+      "name": "komedi"
+    },
+    {
+      "id": 4,
+      "name": "dram"
+    },
+    {
+      "id": 5,
+      "name": "savaş"
+    }
+  ]
+}
